@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-CC%20BY%204.0-lightgreen.svg)(http://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 
 # lab-5-group
