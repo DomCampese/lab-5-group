@@ -15,7 +15,7 @@ pip install lab-5-group
 ## Usage 
 ```python
 import lab-5-group
-lab-5-group.enter() #returnsa prompt to enter an age, and a name and greets the user 
+lab-5-group.enter() #returns a prompt to enter an age, and a name and greets the user 
 lab-5-group.fact() #returns a fact based on the users favorite animal
 ```
 ## Contributing
