@@ -23,4 +23,4 @@ pull requests are welcome. If any major issues are spotted, open a issue and we 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
+* MIT lets you share code under a copyleft license and still lets you monetize! 🤑
